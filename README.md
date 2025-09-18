@@ -7,7 +7,7 @@ majella-app/
 ├── style.css              # Tema visivo ispirato al Parco Majella
 ├── script.js              # Bussola, salvataggio, sincronizzazione
 ├── manifest.json          # Configurazione PWA
-├── service-worker.js      # Cache offline
+├── service-worker.js      # Cache offline 
 │
 ├── assets/
 │   └── compass.svg        # Icona della bussola
