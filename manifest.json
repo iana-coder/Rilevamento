@@ -2,7 +2,7 @@
 {
   "name": "Bussola Suoni – Parco Majella",
   "short_name": "Majella Rilevamenti",
-  "start_url": "index.html",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#171719",
