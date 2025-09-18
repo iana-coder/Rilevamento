@@ -8,13 +8,7 @@ majella-app/
 ├── script.js              # Bussola, salvataggio, sincronizzazione
 ├── manifest.json          # Configurazione PWA
 ├── service-worker.js      # Cache offline 
-│
-├── assets/
-│   └── compass.svg        # Icona della bussola
-│
-└── icons/
-    ├── icon-192.png       # Icona PWA
-    └── icon-512.png       # Icona PWA
+
 
 FUNZIONI PRINCIPALI 
 Scheda 1 – Rilevamento Orienta il dispositivo verso il suono e registra direzione e orario. I dati vengono salvati localmente e trasmessi via Bluetooth.
